@@ -56,15 +56,8 @@ I enjoy turning complex problems into reliable systems—especially in **edtech,
   🔗 [View repositories](https://github.com/mhasammujahid?tab=repositories&q=logistics&type=&language=&sort=)
 
 - **🎓 Scalable LMS Engineering at Ilmversity**  
-  Migrated legacy modules to MERN, optimized backend performance with Redis + MongoDB tuning, and supported 50K+ DAU.  
+  Migrated legacy modules to MERN, optimized backend performance with Redis + MySQL tuning, and supported 50K+ DAU.  
   🔗 [GitHub profile projects](https://github.com/mhasammujahid?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhasammujahid&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasammujahid&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
