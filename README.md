@@ -63,10 +63,8 @@ I enjoy turning complex problems into reliable systems—especially in **edtech,
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhasammujahid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasammujahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhasammujahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasammujahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
